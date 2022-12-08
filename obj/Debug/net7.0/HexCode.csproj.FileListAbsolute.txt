@@ -1,0 +1,15 @@
+C:\Mon_Code\HexCode\bin\Debug\net7.0\HexCode.exe
+C:\Mon_Code\HexCode\bin\Debug\net7.0\HexCode.deps.json
+C:\Mon_Code\HexCode\bin\Debug\net7.0\HexCode.runtimeconfig.json
+C:\Mon_Code\HexCode\bin\Debug\net7.0\HexCode.dll
+C:\Mon_Code\HexCode\bin\Debug\net7.0\HexCode.pdb
+C:\Mon_Code\HexCode\obj\Debug\net7.0\HexCode.csproj.AssemblyReference.cache
+C:\Mon_Code\HexCode\obj\Debug\net7.0\HexCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\HexCode\obj\Debug\net7.0\HexCode.AssemblyInfoInputs.cache
+C:\Mon_Code\HexCode\obj\Debug\net7.0\HexCode.AssemblyInfo.cs
+C:\Mon_Code\HexCode\obj\Debug\net7.0\HexCode.csproj.CoreCompileInputs.cache
+C:\Mon_Code\HexCode\obj\Debug\net7.0\HexCode.dll
+C:\Mon_Code\HexCode\obj\Debug\net7.0\refint\HexCode.dll
+C:\Mon_Code\HexCode\obj\Debug\net7.0\HexCode.pdb
+C:\Mon_Code\HexCode\obj\Debug\net7.0\HexCode.genruntimeconfig.cache
+C:\Mon_Code\HexCode\obj\Debug\net7.0\ref\HexCode.dll
