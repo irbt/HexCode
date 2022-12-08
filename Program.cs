@@ -5,14 +5,17 @@ namespace Program
 {
     
     public static bool IsHex(string s){
+        var pattern = @"[#][A-Za-z0-9]{6}\b";
+        Regex rg = new Regex (pattern);
         
-        //var pattern = "[#][A-Z a-z 0-9] {6}\b";
-        //Regex rg = new Regex (pattern);
-        
-        return Regex.IsMatch(s,@"[#][A-Za-z0-9]{6}\b");
+        return Regex.IsMatch(s,pattern);
     }
     public static void Main( )
     {
+        Console.Clear();
         Console.WriteLine (IsHex("#CD5C5C"));
+        Console.WriteLine (IsHex("#f08080"));
+        Console.WriteLine (IsHex("#E9967A"));
+        Console.WriteLine (IsHex("#EFFA07A"));
     }
 }}
